@@ -18,9 +18,19 @@ Remember negative spaces
 
 Use colourbrewer
 
+-------------------------
+Animation and Interaction
+-------------------------
+
+http://www.jeromecukier.net/blog/2012/07/16/animations-and-transitions/
+
+http://synthesis.sbecker.net/articles/2012/07/10/learning-d3-part-3-animation-interaction
+
 -------
 Toolbox
 -------
+
+Dimple.js
 
 http://rawgraphs.io/
 
