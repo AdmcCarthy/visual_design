@@ -22,9 +22,17 @@ Use colourbrewer
 Animation and Interaction
 -------------------------
 
+https://bost.ocks.org/mike/bubble-map/
+
 http://www.jeromecukier.net/blog/2012/07/16/animations-and-transitions/
 
 http://synthesis.sbecker.net/articles/2012/07/10/learning-d3-part-3-animation-interaction
+
+http://www.stator-afm.com/tutorial/d3-js-mouse-events/
+
+http://christopheviau.com/d3_tutorial/
+
+http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html
 
 -------
 Toolbox
